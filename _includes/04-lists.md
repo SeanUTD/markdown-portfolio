@@ -1,3 +1,3 @@
-I like pizza
-I like cake
-I like cookies
+- I like pizza
+- I like cake
+- I like cookies
